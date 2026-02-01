@@ -1,0 +1,26 @@
+ID,Landing URL,Time on Page,Scroll Depth,Device,Next Action 
+S01,/blog/safest-cars-india-ncap-2025,5m 12s,90%,Mobile ,"Click: ""Tata Nexon"""
+S02,/model/hyundai-creta-sx,0m 30s ,15%, Desktop ,Bounce
+S03,/finance/emi-calculator,2m 45s ,100%,Desktop ,Download Quote
+S04,/compare/brezza-cng-vs-petrol,4m 10s ,85%,Mobile,Share on WhatsApp
+S05,/model/mahindra-thar-rox,0m 10s ,5%, Mobile,Bounce
+S06,/blog/ev-charging-infrastructure-delhi,6m 20s ,95%,Desktop ,"Click: ""Nexon EV"""
+S07,/model/kia-seltos,4m 50s ,80%,Tablet ,Check Color Options
+S08,/brochure-download/xuv700,1m 05s ,N/A,Desktop ,Exit
+S09,/model/maruti-fronx,0m 05s ,0%,Mobile ,Bounce
+S10,/blog/best-automatic-cars-under-10lakhs,3m 15s ,70%,Mobile ,"Click: ""Amaze CVT"""
+S11,/compare/grand-vitara-vs-hyryder,7m 30s ,90%,Desktop ,Read Reviews
+S12,/showroom-locator/bangalore,0m 45s ,40%,Mobile ,"Click: ""Call Now"""
+S13,/model/tata-safari,0m 20s ,10%,Desktop ,Bounce
+S14,/blog/sunroof-pros-cons,2m 10s ,60%,Mobile ,Exit
+S15,/model/mg-hector,5m 45s ,85%,Desktop ,Book Test Drive
+S16,/service/spare-parts-cost,1m 30s ,50%,Mobile ,"Search: ""Wiper Blade"""
+S17,/model/hyundai-venue,0m 15s ,10%,Desktop ,Bounce
+S18,/blog/diesel-vs-petrol-resale-value,4m 00s ,80%,Desktop ,"Click: ""Used Cars"""
+S19,/model/scorpio-n,0m 12s ,5%,Mobile ,Bounce
+S20,/compare/creta-vs-seltos-vs-elevate,8m 10s ,100%,Desktop ,"Click: ""Elevate"""
+S21,/model/tata-punch,3m 50s ,75%,Mobile ,View Gallery
+S22,/homepage,0m 03s ,0%,Desktop ,Bounce
+S23,/offers/festive-discount,1m 10s ,100%,Mobile ,"Click: ""Callback"""
+S24,/model/toyota-fortuner,0m 40s ,20%,Mobile ,Bounce
+S25,/blog/adas-features-explained,6m 00s ,90%,Desktop ,"Click: ""XUV700"""
